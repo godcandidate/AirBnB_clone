@@ -13,6 +13,7 @@ from models.review import Review
 from models import storage
 import re
 
+
 class HBNBCommand(cmd.Cmd):
     """
     This contains entry point of the command interpreter
