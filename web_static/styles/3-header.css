@@ -1,13 +1,7 @@
 header{
-    height:70px; 
-    width:100%;
-    color: white;
+    background: #fff url('../images/logo.png') 20px center no-repeat;
     border-bottom: 1px solid #ccc;
+    height: 70px;
+    width: 100%;
 }
 
-.logo
-{
-    display: flex;
-    align-items: center;
-    padding-left: 20px;
-}
